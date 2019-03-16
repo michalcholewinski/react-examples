@@ -1,5 +1,5 @@
 {
-  "name": "React Boilerplate",
+  "name": "react-boilerplate",
   "scripts": {
     "dev": "next",
     "build": "next build",
